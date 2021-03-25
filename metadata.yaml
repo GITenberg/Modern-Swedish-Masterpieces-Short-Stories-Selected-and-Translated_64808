@@ -5,6 +5,9 @@ contributor:
     agent_name: Stork, Charles Wharton
     gutenberg_agent_id: '53063'
     url: http://www.gutenberg.org/2009/agents/53063
+covers:
+- cover_type: archival
+  image_path: 64808-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Söderberg, Hjalmar
@@ -44,6 +47,8 @@ creator:
     - https://sv.wikipedia.org/wiki/Per_Hallstr%C3%B6m
     - https://en.wikipedia.org/wiki/Per_Hallstr%C3%B6m
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64808#Modern-Swedish-Masterpieces-Short-Stories-Selected-and-Translated
 gutenberg_issued: '2021-03-13'
 gutenberg_type: Text
 identifiers:
